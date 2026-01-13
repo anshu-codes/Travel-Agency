@@ -1,0 +1,1 @@
+Array.from(document.getElementsByTagName('input')).forEach((e,i)=>)
